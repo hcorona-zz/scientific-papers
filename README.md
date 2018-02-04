@@ -1,2 +1,1 @@
-# scientific-papers
-All the scientific papers I published, including the data and the code
+This is a list of all the scientific papers I published. For some of them, I includethe data and the code for only for reproducibility purposes. For more information, visit my [google scholar profile](https://scholar.google.com/citations?user=gk1SsgYAAAAJ&hl)
